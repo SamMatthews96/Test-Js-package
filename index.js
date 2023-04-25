@@ -1,4 +1,6 @@
-const myValue = 'this is functional'
-window.myValue = myValue
 
-console.log(myValue)
+window.Vuuze = {
+  setTheme: theme => {
+    document.body.setAttribute('data-theme', theme)
+  }
+}
