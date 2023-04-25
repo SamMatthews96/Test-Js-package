@@ -1,5 +1,3 @@
-const myValue = 'this is working'
+const myValue = 'this is functional'
 
-console.log('log 1')
-
-export default myValue
+console.log(myValue)

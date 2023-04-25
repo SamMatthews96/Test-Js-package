@@ -1,1 +1,0 @@
-const myValue = 'this is functional'
